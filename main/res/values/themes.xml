@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Taskapp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/material_dynamic_primary30</item>
+        <item name="colorPrimaryVariant">@color/design_default_color_secondary_variant</item>
+        <item name="android:statusBarColor">@color/material_dynamic_primary80</item>> -->
+    </style>
+
+    <style name="Theme.Taskapp" parent="Base.Theme.Taskapp" />
+</resources>
